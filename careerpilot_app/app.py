@@ -156,10 +156,11 @@ else:
     cta1, cta2 = st.columns(2)
     with cta1:
         if st.button("🤖 Start Prediction →", type="primary", use_container_width=True):
-            st.switch_page("pages/2_🤖_Prediction.py")
+            st.switch_page("pages/2_Prediction.py")
+
     with cta2:
         if st.button("📊 Explore Dashboard →", use_container_width=True):
-            st.switch_page("pages/3_📊_Analytics.py")
+            st.switch_page("pages/3_Analytics.py")")
 
     st.markdown("### 🕓 Recent Predictions")
     if len(history):

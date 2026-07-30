@@ -160,7 +160,7 @@ else:
 
     with cta2:
         if st.button("📊 Explore Dashboard →", use_container_width=True):
-            st.switch_page("pages/3_Analytics.py")")
+            st.switch_page("pages/3_Analytics.py")
 
     st.markdown("### 🕓 Recent Predictions")
     if len(history):

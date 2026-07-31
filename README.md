@@ -37,6 +37,9 @@ career-pilot-ai/
 ├── utils/
 ├── reports/
 └── requirements.txt
+## 🚀 Live Demo
+
+[🌐 Try CareerPilot AI](https://career-pilot-ai-d7dpsyueqddykzjkwse67e.streamlit.app/)
 
 ## 👩‍💻 Developed By
 

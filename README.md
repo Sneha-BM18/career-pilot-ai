@@ -25,7 +25,7 @@ An AI-powered career guidance platform built using Python and Streamlit.
 
 ## 🚀 Live Demo
 
-[Try CareerPilot AI](YOUR_STREAMLIT_LINK)
+[Try CareerPilot AI](https://career-pilot-ai-d7dpsyueqddykzjkwse67e.streamlit.app/git add README.md)
 
 ## 📂 Project Structure
 
